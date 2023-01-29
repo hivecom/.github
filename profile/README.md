@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="192" height="192" src="https://avatars.githubusercontent.com/u/20674491?s=200&v=4" alt="Mavulp logo">
+  <img width="156" height="156" src="https://avatars.githubusercontent.com/u/20674491?s=200&v=4" alt="Mavulp logo">
 </p>
 
 <h1 align="center"/>Mavulp</h1>
