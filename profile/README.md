@@ -9,5 +9,5 @@
 <br/>
 
 <p align="center">
-Collection of friends all around the world creating awesome things together. 
+International group of friends on their journey to become self sustainable community with our own software/service solutions... to everything.
 </p>
