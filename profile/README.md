@@ -4,7 +4,7 @@
 
 <h1 align="center"/>Mavulp</h1>
 
-<p align="center>Everything as a service.</p>
+<p align="center">Everything as a service.</p>
 
 <br/>
 
