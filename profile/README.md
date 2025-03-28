@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="156" height="156" src="https://avatars.githubusercontent.com/u/20674491?s=200&v=4" alt="Mavulp logo">
+  <img width="156" height="156" src="https://avatars.githubusercontent.com/u/20674491?s=200&v=4" alt="Hivecom logo">
 </p>
 
-<h1 align="center"/>Mavulp</h1>
+<h1 align="center"/>Hivecom</h1>
 
 <p align="center">Everything as a service.</p>
 
