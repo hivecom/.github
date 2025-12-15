@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="156" height="156" src="https://avatars.githubusercontent.com/u/20674491?s=200&v=4" alt="Hivecom logo">
+  <img src="https://github.com/user-attachments/assets/0be092ec-8d0d-4fc6-96b5-20173f3d9b00" alt="Hivecom logo">
 </p>
 
 <h1 align="center"/>Hivecom</h1>
